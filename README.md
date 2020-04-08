@@ -6,8 +6,8 @@ Valerii Spiridonov Infra repository
 <h2>VPN</h2>
 
 <pre>
-bastion_IP = 35.210.51.84 <br>
-someinternalhost_IP = 10.132.0.3 <br>
+bastion_IP = 35.210.51.84
+someinternalhost_IP = 10.132.0.3
 </pre>
 
 Подключение к VPN осуществляется путём установки OpenVPN клиента и использования находящегося в репозитарии файла-ключа.
