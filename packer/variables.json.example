@@ -1,0 +1,8 @@
+{
+
+        "variables": {
+            "gcp_project_id": "infra-12345",
+            "gcp_source_image_family": "ubuntu-1604-xyz",
+            "gcp_machine_type": "f1-zyx"
+            }
+}
