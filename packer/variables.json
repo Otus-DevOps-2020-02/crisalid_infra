@@ -1,0 +1,7 @@
+{
+    "variables": {
+        "gcp_project_id": "",
+        "gcp_source_image_family": "",
+        "gcp_machine_type": ""
+        },
+}
