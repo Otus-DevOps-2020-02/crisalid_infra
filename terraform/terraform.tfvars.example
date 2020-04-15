@@ -1,0 +1,5 @@
+project          = "devops-course-1"
+public_key_path  = "~/Otus/gcp-bastion.pub"
+disk_image       = "reddit-base"
+private_key_path = "~/Otus/gcp-bastion"
+zone_var         = "europe-west1-b"
